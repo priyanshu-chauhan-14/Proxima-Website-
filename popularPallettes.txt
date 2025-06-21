@@ -1,0 +1,15 @@
+grey --> 8d99ae
+black --> 212529
+light purple --> 9a8c98
+lighter grey --> 6c757d
+more lighter grey --> adb5bd
+carrot orange --> f9844a
+
+
+ /* font-family: monospace; */
+    /* font-family: cursive; */
+    /* font-family: fantasy;  */
+    /* font-family: ui-rounded; */
+    /* font-family: emoji; */
+    /* font-family: math; */
+    /* font-family: fangsong; */
