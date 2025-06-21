@@ -46,6 +46,20 @@ body {
     margin-right: 10px;
 }
 
+@media (max-width:600px){
+    #navbar a{
+        font-size: 14px;
+        width:100%;
+    }
+    #logo a{
+        font-weight: 600;
+        font-size: 18px;
+    }
+    #quote h1{
+        font-size: 16px;
+    }
+}
+
 /* ---------------------------------------------Images of classroom */
 #classroom{
     margin-top:10px;
